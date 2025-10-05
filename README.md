@@ -1,6 +1,6 @@
-# 👋 Hola, soy José Chamorro  
+# Hola, soy José Miguel Chamorro  
 
-**Kinesiólogo en transición hacia el Análisis y la Ciencia de Datos en Salud**  
+**Profesional del Área de la Salud en transición hacia el Análisis y la Ciencia de Datos en Salud**  
 
 📍 Chile | 💼 Salud · Biomecánica · Machine Learning  
 📧 jm.chamorro.g@gmail.com  
