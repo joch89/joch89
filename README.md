@@ -6,7 +6,7 @@
 📧 jm.chamorro.g@gmail.com  
 
 ---
-Soy kinesiólogo y Quiropráctico con experiencia en rehabilitación musculoesquelética y deportiva.  
+Soy kinesiólogo y Quiropráctico con experiencia en Rehabilitación Musculoesquelética y Deportiva.  
 Actualmente me encuentro en un proceso de transición hacia el **Health Data Science**, explorando el uso de **Análisis de Datos**, **Machine Learning** y **Computer Vision** aplicados a la salud y el rendimiento humano. 
 
 ---
