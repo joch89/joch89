@@ -6,10 +6,6 @@
 📧 jm.chamorro.g@gmail.com  
 
 ---
-Soy kinesiólogo y Quiropráctico con experiencia en Rehabilitación Musculoesquelética y Deportiva.  
-Actualmente me encuentro en un proceso de transición hacia el **Health Data Science**, explorando el uso de **Análisis de Datos**, **Machine Learning** y **Computer Vision** aplicados a la salud y el rendimiento humano. 
-
----
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
